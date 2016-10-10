@@ -1,0 +1,64 @@
+/*style.css*/
+body {
+    background-color: #323232;
+}
+
+
+
+#header {
+	
+	font-family: "Brush Script MT";
+	font-size: 64px;
+	color: white;
+	text-align: center;
+}
+div{
+	border: 2px;
+	margin: 2px;
+	padding: 2px;
+}
+
+div.scrollmenu {
+    background-color: #444444;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 18px;
+    text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+    background-color: #777;
+	
+}
+
+#head {
+	
+	color: white;
+	text-indent:center;
+	font-size: 56px;
+}
+
+tr {
+	height: 80px;
+}
+
+q {
+	
+	color: white;
+	text-indent:center;
+	font-size: 23px;
+	font-style: italic;
+}
+
+footer {
+	color: white;
+    background-color: #444444;
+    clear: left;
+    text-align: center;
+}

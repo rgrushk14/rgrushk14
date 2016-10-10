@@ -1,0 +1,55 @@
+body {
+    background-color: #323232;
+}
+
+#header {
+	
+	font-family: "Brush Script MT";
+	font-size: 64px;
+	color: white;
+	text-align: center;
+
+}
+div.scrollmenu {
+    background-color: #444444;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 18px;
+    text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+    background-color: #777;
+}
+a {
+	font-family: "Goudy Old Style";
+	font-size: 22px;	
+}
+
+#tablehead {
+	font-family: Goudy Old Style;
+	font-size: 44px;	
+	color: white;
+}
+table, td, th, tr {
+	border-collapse: collapse;
+	border: 29px solid #323232;
+	
+}
+
+
+
+
+
+footer {
+	color: white;
+    background-color: #444444;
+    clear: left;
+    text-align: center;
+}
