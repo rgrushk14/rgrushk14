@@ -1,4 +1,4 @@
-/*style.css*/
+/*stylequotes.css*/
 body {
     background-color: #323232;
 }
@@ -39,13 +39,14 @@ div.scrollmenu a:hover {
 
 a {
 	font-family: "Goudy Old Style";
-	font-size: 22px;
+	font-size: 22px;	
+}
 
-h1 {
-	
-	color: white;
-	text-indent:center;
-	font-size: 56px;
+
+header { 
+font-size: 28px;
+color: white;
+
 }
 
 tr {
